@@ -1,1 +1,1 @@
-# life_test
+# life_test  uses mern stack to impliment 
